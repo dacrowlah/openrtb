@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.google.openrtb</groupId>
-  <artifactId>openrtb-parent</artifactId>
+  <artifactId>openrtb-core</artifactId>
   <versioning>
     <versions>
       <version>1.0.6-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20160628220443</lastUpdated>
+    <lastUpdated>20160628220500</lastUpdated>
   </versioning>
 </metadata>
